@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 import java.util.logging.Logger;
 public class Practice1 {

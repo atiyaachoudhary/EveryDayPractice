@@ -1,8 +1,8 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 import java.util.ArrayList;
 import java.util.List;
-public class Solution {
+public class StringSolution {
     public static void main(String[] args) {
         String input =  "x3y2w5t4";
         List<String> letter = new ArrayList<>();

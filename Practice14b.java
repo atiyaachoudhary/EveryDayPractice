@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 public class Practice14b {
     public static void main(String[] args) {
         int[] input= { 1, 3, 5, 7 };

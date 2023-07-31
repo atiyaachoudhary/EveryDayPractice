@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 //Find index of 0 to be replaced to get the maximum length sequence of continuous ones
 //Given a binary array, find the index of 0 to be replaced with 1 to get the maximum length sequence of continuous ones.

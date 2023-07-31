@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 import java.util.Arrays;
 import java.util.Scanner;

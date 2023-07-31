@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 import java.security.Key;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 //Find maximum profit earned by buying and selling shares any number of times
 //        Given a list containing future prediction of share prices, find the maximum profit earned by buying and selling shares any number of times with the constraint, a new transaction can only start after the previous transaction is complete, i.e., we can only hold at most one share at a time.
@@ -12,6 +12,17 @@ package PracticeProblem;
 //        Total profit earned is 0
 public class Practice16 {
     public static void main(String[] args) {
-
+//        int[] prices={1, 5, 2, 3, 7, 6, 4, 5};
+        int[] prices={10, 8, 6, 5, 4, 2};
+        maProfit(prices);
+    }
+    private static void maProfit(int[] prices) {
+        int profit=0;
+        for (int i = 0; i < prices.length-1; i++) {
+            if (prices[i+1] > prices[i]) {
+                profit=prices[i+1]-prices[i]+profit;
+            }
+        }
+        System.out.println(profit);
     }
 }

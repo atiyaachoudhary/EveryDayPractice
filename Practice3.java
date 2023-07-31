@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 
 import collections.Collection;
 

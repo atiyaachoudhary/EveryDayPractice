@@ -1,4 +1,4 @@
-package PracticeProblem;
+package EveryDayPractice;
 //Given a sorted array of distinct positive integers, print all triplets that forms an arithmetic progression with an integral common difference.
 //An arithmetic progression is a sequence of numbers such that the difference between the consecutive terms is constant.
 // For instance, sequence 5, 7, 9, 11, 13, 15, … is an arithmetic progression with a common difference of 2.
