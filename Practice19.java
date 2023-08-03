@@ -11,7 +11,10 @@ import java.util.Scanner;
 // 3
 public class Practice19 {
     public static void main(String[] args) {
-        int n=5;
+        int n;
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number");
+        n=sc.nextInt();
         int[] arr=new int[n];
         for (int i = 0; i < arr.length; i++) {
             arr[i]=1;
