@@ -14,8 +14,7 @@ public class Practice20a {
     private static void shuffleArray(int[] nums, int[] pos) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < nums.length; j++) {
-                nums[pos[i]] = nums[i];
-                int temp = nums[pos[i]];
+
             }
         }
         System.out.println(Arrays.toString(nums));
