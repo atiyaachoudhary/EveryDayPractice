@@ -8,7 +8,7 @@ package EveryDayPractice;
 //The trimmed array is [6, 4] where 6 < 2 × 4.
 public class Practice23 {
     public static void main(String[] args) {
-        int[] arr={4,6,1,7,5,9,2};
+        int[] arr={4,6,1,7,5,9,8};
         trimArray(arr);
     }
     private static void trimArray(int[] arr) {
