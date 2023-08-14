@@ -9,7 +9,7 @@ import java.util.Scanner;
 //Output:2
 //Explanation:
 //1, 2 both divide 12 evenly
-public class Prcatice25 {
+public class Practice25 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n;
