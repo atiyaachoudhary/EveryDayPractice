@@ -1,7 +1,5 @@
 package EveryDayPractice;
 
-import collections.Collection;
-
 import java.util.Collections;
 
 public class Practice3 {
