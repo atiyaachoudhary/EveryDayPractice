@@ -2,7 +2,7 @@ package EveryDayPractice;
 
 import java.util.Arrays;
 
-public class Prcatice28 {
+public class Practice28 {
     public static void main(String[] args) {
         int[] red={6, 3, 2, 8, 7};
         int[] blue={8, 6, 7, 2, 3};
