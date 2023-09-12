@@ -10,16 +10,14 @@ import java.util.ArrayList;
 //Explanation: Binary representation is '1000'. So the count of the set bit is 1.
 public class Practice_08092023 {
     public static void main(String[] args) {
-        int N=8;
+        int N=136;
         binaryRepresentation(N);
     }
     private static void binaryRepresentation(int n) {
         ArrayList<Integer> list=new ArrayList<>();
-        int index=0;
         while (n>0){
             list.add(n%2);
             n=n/2;
-            index++;
         }
         int count=0;
         for (int i = 0; i < list.size(); i++) {
@@ -27,6 +25,7 @@ public class Practice_08092023 {
                 count++;
             }
         }
+        System.out.println(list);
         System.out.println(count);
     }
 }
