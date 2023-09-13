@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d77c7b-cc7a-474a-858e-a9e550d78d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice_11092023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_13092023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_08092023.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_08092023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_08092023.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_08092023.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice_11092023">
+  <component name="RunManager" selected="Application.Practice_13092023">
     <configuration name="Practice_08092023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_08092023" />
       <module name="EveryDayPractice" />
@@ -70,8 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.StringSolution" />
+    <configuration name="Practice_12092023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_12092023" />
+      <module name="EveryDayPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EveryDayPractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice_13092023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_13092023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -98,10 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice_13092023" />
+        <item itemvalue="Application.Practice_12092023" />
         <item itemvalue="Application.Practice_11092023" />
         <item itemvalue="Application.Practice_08092023" />
         <item itemvalue="Application.StringSolutionb" />
-        <item itemvalue="Application.StringSolution" />
       </list>
     </recent_temporary>
   </component>
