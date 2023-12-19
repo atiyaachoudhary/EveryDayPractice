@@ -7,17 +7,18 @@ package EveryDayPractice;
 
 public class Practice_13092023 {
     public static void main(String[] args) {
-        int n=2;
-        int sum=9;
+        int n=5;
+        int sum=12;
         String largest = findLargest(n, sum);
         System.out.println(largest);
     }
     private static String findLargest(int n, int sum) {
-        StringBuilder sb=new StringBuilder();
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < n; i++) {
-            if (sum>0) {
-                if(sum>9){
+            if (sum > 0) {
+                if (sum>9) {
                     sb.append(9);
+                    sum=sum-9;
                 }else{
                     sb.append(sum);
                     sum=0;
@@ -25,9 +26,8 @@ public class Practice_13092023 {
             }else
                 sb.append(0);
         }
-        if (sum!=0) {
+        if (sum != 0)
             return "-1";
-        }
         return sb.toString();
     }
 }
