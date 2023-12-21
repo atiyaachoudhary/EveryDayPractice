@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52d77c7b-cc7a-474a-858e-a9e550d78d37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice_13112023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_15092023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_19122023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_20092023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice_21112023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_11122023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_12122023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_14122023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_20122023.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_13092023.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_13092023.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_13092023.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_13092023.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_15122023.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EveryDayPractice/EveryDayPractice/Practice_15122023.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Practice/JSFProject&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Practice/CorePractice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -59,9 +54,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Practice_19122023">
-    <configuration name="Practice_13092023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_13092023" />
+  <component name="RunManager" selected="Application.Practice_11122023">
+    <configuration name="Practice_11122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_11122023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_13112023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_13112023" />
+    <configuration name="Practice_12122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_12122023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_19122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_19122023" />
+    <configuration name="Practice_14122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_14122023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_20092023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_20092023" />
+    <configuration name="Practice_15122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_15122023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_21112023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_21112023" />
+    <configuration name="Practice_20122023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EveryDayPractice.Practice_20122023" />
       <module name="EveryDayPractice" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice_19122023" />
-        <item itemvalue="Application.Practice_13112023" />
-        <item itemvalue="Application.Practice_20092023" />
-        <item itemvalue="Application.Practice_21112023" />
-        <item itemvalue="Application.Practice_13092023" />
+        <item itemvalue="Application.Practice_11122023" />
+        <item itemvalue="Application.Practice_12122023" />
+        <item itemvalue="Application.Practice_14122023" />
+        <item itemvalue="Application.Practice_20122023" />
+        <item itemvalue="Application.Practice_15122023" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +140,9 @@
       <updated>1694154214271</updated>
       <workItem from="1700548128449" duration="1299000" />
       <workItem from="1702624928895" duration="10219000" />
-      <workItem from="1702967949679" duration="3996000" />
+      <workItem from="1702967949679" duration="14877000" />
+      <workItem from="1703051520386" duration="14209000" />
+      <workItem from="1703137706173" duration="2371000" />
     </task>
     <servers />
   </component>
